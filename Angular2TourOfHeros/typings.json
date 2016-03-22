@@ -1,0 +1,11 @@
+{
+    "ambientDependencies": {
+        "angular": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular.d.ts#c2ae01b0b4c046a7f986183c792fbccedec0b1fc",
+        "angular-route": "github:DefinitelyTyped/DefinitelyTyped/angularjs/angular-route.d.ts#80c19345b84626c404ecc1bdc68c7ee6297b4f7f",
+        "angular-ui-bootstrap": "github:DefinitelyTyped/DefinitelyTyped/angular-ui-bootstrap/angular-ui-bootstrap.d.ts#5d3116c83ea2aa0afcfef61c8cbbf6d7a4cbc09f",
+        "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
+        "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#bc92442c075929849ec41d28ab618892ba493504",
+        "jquery": "github:DefinitelyTyped/DefinitelyTyped/jquery/jquery.d.ts#661fc869669af796c6048483e999dce5732eed72",
+        "underscore": "github:DefinitelyTyped/DefinitelyTyped/underscore/underscore.d.ts#ae40eedc5648e91f21a52e0f596479ed87a12af4"
+    }
+}
